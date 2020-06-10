@@ -59,7 +59,7 @@ Semantic listening attends to codes or languages to interpret a message (Chion 2
 
 > [Derbyshire](https://wikidelia.net/wiki/Radio_Scotland_interview): "I did the music for the whole programme. It was probably in the mid '60s. [...] I never watched the stuff. I had a script, that's all. The actors, I got them to chant. The words they were singing were, 'Praise to the master, his wisdom and his [reason]" [...] I turned it backwards first, then chose the best bits that sounded good backwards and would fit into a rhythm, and then speed-changed the voices. Then I used just this one bar repeated which had [previously] been rejected from a science and health program for being too lascivious for the schoolchildren. It was like a science program... it was supposed to be about sex, but under another name. And then the producer had the nerve to turn down my music, saying it was too lascivious."
 
-**Signature Tune**: lorem ipsum 
+**Signature Tune**: As a signature tune for "The Prophet," "Ziwzih Ziwzih OO-OO-OO" was probably meant to be memorable and even to stand on its own (without depending on images on the television screen). Repetition and stability, if not simplicity, were key. Maybe the goal was not "deep," but rather "indelible"? A curious combination of catchy (or popular) and avant-garde? 
 
 > [Derbyshire](https://wikidelia.net/wiki/Radio_Scotland_interview): "I think it was at the same time as one of the Beatles' songs, 'Please please me', and so that was like, I think, er, Drew said he thought it sounded medieval. Well that was because it was like a new religion and they'd go back to square one and the perfect fifth as the greeks did."  
 
