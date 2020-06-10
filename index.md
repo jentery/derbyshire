@@ -23,7 +23,7 @@ Below I focus on the entanglements of Derbyshire's sounds with science fiction. 
 
 Audio and provenance care of [Martin Guy](https://wikidelia.net/wiki/Science_and_Health): 
 
-> "In 1964, Delia /[Derbyshire]/ created a 57-second signature tune for a BBC radio series[,] 'For Schools - Health and Science', which she named [Science and Health](https://wikidelia.net/wiki/TRW#6152), 'a succession of tumbling chords, descending with an elegance beyond almost anyone else' (see Robin Carmody's ["Wee Have Also Sound-Houses"](https://wikidelia.net/wiki/Wee_have_also_sound-houses_(article)). 
+> "In 1964, Delia `[`Derbyshire`]` created a 57-second signature tune for a BBC radio series[,] 'For Schools - Health and Science', which she named [Science and Health](https://wikidelia.net/wiki/TRW#6152), 'a succession of tumbling chords, descending with an elegance beyond almost anyone else' (see Robin Carmody's ["Wee Have Also Sound-Houses"](https://wikidelia.net/wiki/Wee_have_also_sound-houses_(article)). 
 
 > "The programme was actually called 'For Schools - Health and Science', not 'Science and Health'. The [*Radio Times* listing](https://genome.ch.bbc.co.uk/0b6cbbb9c6bb422ab0bf8ce745a85dcc) initially only credits the programme as 'compiled by Michael Smee.' Later in the series, the *Radio Times* provided [a fuller credit](https://genome.ch.bbc.co.uk/61bf87094117409587e663c4528b4388)[:] 'Reproduction 4: Bringing up children by Michael Smee Series produced and edited by Elizabeth Kilham Roberts.'"
 
