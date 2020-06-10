@@ -14,3 +14,17 @@ While contributing at the Radiophonic Workshop, Derbyshire also composed everyth
 For more about Derbyshire and the Radiophonic Workshop, see Kara Blake's [*The Delian Mode*](https://thedelianmode.com/) (Philtre Films, 2009), [*Sculptress of Sound: The Lost Works of Delia Derbyshire*](https://www.bbc.co.uk/programmes/b00rl2ky) (BBC Radio, March 2010), [*The Alchemists of Sound*](http://www.ubu.com/film/alchemists.html) (BBC Documentary, 2003), Louis Niebur's [*Special Sound: The Creation and Legacy of the BBC Radiophonic Workshop*](https://global.oup.com/ushe/product/special-sound-9780195368406?cc=ca&lang=en&) (Oxford U P, 2010), and [David Butler's 2019 piece](https://www.bbc.com/historyofthebbc/100-voices/pioneering-women/women-of-the-workshop/delia-derbyshire) for the "History of the BBC." 
 
 Below I focus on the entanglements of Derbyshire's sounds with science fiction. The two pieces I selected are "Science and Health" and "Ziwzih Ziwzih OO-OO-OO." 
+
+## "Science and Health"
+
+<iframe src="http://wikidelia.net/wiki/File:Science_and_Health.ogg?embedplayer=yes" width="220" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+"Science and Health," from 1964, recorded on a 5" reel, 1/4" tape, at 01:05 minutes 
+
+Audio and provenance care of [Martin Guy](https://wikidelia.net/wiki/Science_and_Health): 
+
+> "In 1964, Delia /[Derbyshire]/ created a 57-second signature tune for a BBC radio series[,] 'For Schools - Health and Science', which she named [Science and Health](https://wikidelia.net/wiki/TRW#6152), 'a succession of tumbling chords, descending with an elegance beyond almost anyone else' (see Robin Carmody's ["Wee Have Also Sound-Houses"](https://wikidelia.net/wiki/Wee_have_also_sound-houses_(article)). 
+
+> "The programme was actually called 'For Schools - Health and Science', not 'Science and Health'. The [*Radio Times* listing](https://genome.ch.bbc.co.uk/0b6cbbb9c6bb422ab0bf8ce745a85dcc) initially only credits the programme as 'compiled by Michael Smee.' Later in the series, the *Radio Times* provided [a fuller credit](https://genome.ch.bbc.co.uk/61bf87094117409587e663c4528b4388)[:] 'Reproduction 4: Bringing up children by Michael Smee Series produced and edited by Elizabeth Kilham Roberts.'"
+
+Either Smee or Kilham Roberts ultimately rejected the tune for use in their sex education programme, reportedly deeming it too "lascivious." Derbyshire thus reused parts of the piece for "Ziwzih Ziwzih OO-OO-OO."
