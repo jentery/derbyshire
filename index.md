@@ -35,7 +35,7 @@ The tune was never broadcasted. Either Smee or Kilham Roberts ultimately rejecte
 Your browser does not support the audio element.
 </audio>
 
-"Ziwzih Ziwzih OO-OO-OO," broadcast at 10:05pm on 1st January 1967 on BBC2. Recorded on a 7" reel, 1/4" tape, at 7.5ips. 10:53 minutes. Audio and provenance again care of [Martin Guy](https://wikidelia.net/wiki/Ziwzih%20Ziwzih%20OO-OO-OO).t 
+"Ziwzih Ziwzih OO-OO-OO," broadcast at 10:05pm on 1st January 1967 on BBC2. Recorded on a 7" reel, 1/4" tape, at 7.5ips. 10:53 minutes. Audio and provenance again care of [Martin Guy](https://wikidelia.net/wiki/Ziwzih%20Ziwzih%20OO-OO-OO). 
 
 This particular piece not only respliced "Science and Health" but also served as the theme for an episode in the BBC television series, *Out of the Unknown*. The episode was titled, ["The Prophet,"](https://genome.ch.bbc.co.uk/845a0724283b4cc2ae96313b7a329d39) and adapted Isaac Asimov's short story, "Reason," about QT-1 ("Cutie"), a robot prophet who rejects human commands to lead an automata rebellion in the name of their ship's energy converter (their "Master"). I don't believe an extant copy of "The Prophet" exists; however, there are some [telesnaps](https://wikidelia.net/wiki/Ziwzih%20Ziwzih%20OO-OO-OO#Telesnaps). 
 
@@ -45,17 +45,17 @@ Here's Derbyshire talking about her work for *Out of the Unknown* in a 1997 [Rad
 
 ## Ways of Listening 
 
-Lorem ipsum, follow Michel Chion 
+We could borrow three terms from Michel Chion's [*Audio-Vision: Sound on Screen*](https://cup.columbia.edu/book/audio-vision/9780231078993) (Columbia U P, 1994) to listen to and interpret these two pieces by Derbyshire. They are semantic, causal, and reduced listening. (See Chapter 2, "The Three Listening Modes.") To them I've added a fourth term, the cultures of listening, to underscore the importance of sound studies and cultural crticism in the interpretive process. Alongside each listening mode, I've included some preliminary themes we could discuss. I should also note that this research is still rough, and I've not had the opportunity to study Derbyshire's archive at the University of Manchester. 
 
 ### Semantic Listening 
 
-Attention to meaning and codes 
+Semantic listening attends to codes or languages to interpret a message (Chion 28). Derbyshire's work is compelling here because, in many ways, it resists decoding, partly because "words" in "Ziwzih Ziwzih OO-OO-OO" are played backwards. Derbyshire's papers suggest she may have intended [lyrics](https://wikidelia.net/wiki/DD113144) for "Science and Health," but all recordings are instrumental. 
 
-**Words in Reverse**: lorem ipsum
+**Words in Reverse**: Derbyshire's clearly having some fun with the robots' "song of praise to this bloke," manipulating the original recording to render it more or less indecipherable. She's also experimenting with what may be called the sancity of the voice, that signature of presence or index to the soul. Playing voices backwards would've made people uneasy at the time. Consider practices such as "backmasking," for exmaple, and its associations with Satan. Many cut-ups from the 1950s and 60s also played with reversal to free sound from "the word."  
 
 > [Derbyshire](https://wikidelia.net/wiki/Ziwzih_Ziwzih_OO-OO-OO): "The voices are reversed but actually say 'Praise to the Master/His Wisdom and His Reason/Praise to the Master/Forever and OO-OO-OO-OO/His Wis.../His Wis.../OO-OO-OO-OO/."
 
-**Adaptation and Repurposing**: lorem ipsum
+**Adaptation**: "Ziwzih Ziwzih OO-OO-OO" can also be interpreted in the context of adapting Asimov's "Reason." Derbyshire said she asked actors to "chant." In Asimov's story, reason leads the robots to their own religion, where they follow their energy converter rather than humans. One possible meaning (among many) here could be that Derbyshire's using "Ziwzih Ziwzih OO-OO-OO" to comment on the worship of technology or automation in the 1960s. The Radiophonics Workshop relied heavily on everyday objects for sound, and on tinkering and bending as compositional practices. Derbyshire was also known to be somewhat skeptical of synthesizers when they gained traction in the 70s, and many people refer to her work as "handmade" electronic music. Meanwhile, Asimov's three law of robotics state that robots shouldn't harm humans even as they protect their own existence. (There's the theme of concern about human subjugation to robots, where robots correspond more with high tech advances than with the working class, as seen in Čapek's *R.U.R.*) 
 
 > [Derbyshire](https://wikidelia.net/wiki/Radio_Scotland_interview): "I did the music for the whole programme. It was probably in the mid '60s. [...] I never watched the stuff. I had a script, that's all. The actors, I got them to chant. The words they were singing were, 'Praise to the master, his wisdom and his [reason]" [...] I turned it backwards first, then chose the best bits that sounded good backwards and would fit into a rhythm, and then speed-changed the voices. Then I used just this one bar repeated which had [previously] been rejected from a science and health program for being too lascivious for the schoolchildren. It was like a science program... it was supposed to be about sex, but under another name. And then the producer had the nerve to turn down my music, saying it was too lascivious."
 
