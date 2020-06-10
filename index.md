@@ -51,7 +51,7 @@ We could borrow three terms from Michel Chion's [*Audio-Vision: Sound on Screen*
 
 Semantic listening attends to codes or languages to interpret a message (Chion 28). Derbyshire's work is compelling here because, in many ways, it resists decoding, partly because "words" in "Ziwzih Ziwzih OO-OO-OO" are played backwards. Derbyshire's papers suggest she may have intended [lyrics](https://wikidelia.net/wiki/DD113144) for "Science and Health," but all recordings are instrumental. 
 
-**Words in Reverse**: Derbyshire's clearly having some fun with the robots' "song of praise to this bloke," manipulating the original recording to render it more or less indecipherable. She's also experimenting with what may be called the sancity of the voice, that signature of presence or index to the soul. Playing voices backwards would've made people uneasy at the time. Consider practices such as "backmasking," for exmaple, and its associations with Satan. Many cut-ups from the 1950s and 60s also played with reversal to free sound from "the word."  
+**Words in Reverse**: Derbyshire's clearly having some fun with the robots' "song of praise to this bloke," manipulating the original recording to render it more or less indecipherable. She's also experimenting with what may be called the sanctity of the voice, that signature of presence or index to the soul. Playing voices backwards would've probably made people uneasy at the time. Consider practices such as "backmasking," for example. Many cut-ups from the 1950s and 60s also played with reversal to free sound from "the word."  
 
 > [Derbyshire](https://wikidelia.net/wiki/Ziwzih_Ziwzih_OO-OO-OO): "The voices are reversed but actually say 'Praise to the Master/His Wisdom and His Reason/Praise to the Master/Forever and OO-OO-OO-OO/His Wis.../His Wis.../OO-OO-OO-OO/."
 
@@ -65,19 +65,17 @@ Semantic listening attends to codes or languages to interpret a message (Chion 2
 
 ### Causal Listening 
 
-Causal listening attends (or attempts to attend) to the source or causes of a sound (Chion 25). Derbyshire's technique and style of musique concrète are interesting here because the compositions are premised on manipulating sounds once they're on tape. (You do not need musical instruments. You can rely on "found sound" and even become a one-person band!) A note created a separate piece of tape, and the pieces were joined together to create melodies or themes. Separate tapes were then manually snycrhonized across multiple tape machines, without a master track recorder. (This process has been called "virtual multitrack." See Mark Ayres's work for more.) 
+Causal listening attends (or attempts to attend) to the source or causes of a sound (Chion 25). Derbyshire's technique and style of musique concrète are interesting here because the compositions are premised on manipulating sounds once they're on tape. (You do not need musical instruments. You can rely on "found sound" and even become a one-person band!) A note created a separate piece of tape, and the pieces were joined together to create melodies or themes. Separate tapes were then manually syncrhonized across multiple tape machines, without a master track recorder. (This process has been called "virtual multitrack." See Mark Ayres's work for more.) 
 
-radiophonic workshop as lab, studio, theatre; associations with "mad scientist" (very STEM oriented) 
-
-**The Sound-House**: lorem ipsum
+**The Sound-House**: The Radiophonic Workshop (as a setting for, if not a "cause" of, the BBC's radiophonic sound during the 1960s) was a blend of laboratory, studio, and theatre. Sounds were tested, composed, and performed there, and technology was foregrounded and arguably exoticized by the mandate to make novel audio for tv and radio. Despite its associations with composition (especially after 1965), the Workshop was not a "rehearsal" space (associated with live performance and instrumentation), and it was rooted deeply in STEM culture. (Derbyshire, for instance, studied mathematics and music at Cambridge.) Popular accounts described it in the tradition of "mad science," and many of the Workshop's compositions were for science fiction programs. The space at Maida Vale was also predominantly (entirely?) white and mostly male during Derbyshire's tenure. Prior to Derbyshire's arrival, Daphne Oram associated it with Francis Bacon's "sound-house," a concept he cooked up in his unfinished utopian novel, *The New Atlantis*. I believe Bacon's description of the sound-house may have been pinned or taped to a wall in the Workshop. 
 
 > Francis Bacon from *The New Atlantis* (1627), apparently an inspiration for the Radiophonics Workshop and for Oram in particular: "We have also sound-houses, where we practise and demonstrate all sounds and their generation. We have harmony which you have not, of quartersounds and lesser slides of sounds. Divers instruments of music likewise to you unknown, some sweeter than any you have; with bells and rings that are dainty and sweet. We represent small sounds as great and deep, likewise great sounds, extenuate and sharp; we make divers tremblings and warblings of sounds, which in their original are entire. We represent and imitate all articulate sounds and letters, and the voices and notes of beasts and birds. We have certain helps, which set to the ear do further the hearing greatly; we have also divers strange and artificial echoes, reflecting the voice many times, and as it were tossing it; and some that give back the voice louder than it came, some shriller and some deeper; yea, some rendering the voice, differing in the letters or articulate sound from that they receive. We have all means to convey sounds in trunks and pipes, in strange lines and distances."
 
-**Found Sound**: lorem ipsum
+**Found Sound**: more soon . . . 
 
 > [Derbyshire](https://www.theguardian.com/news/2001/jul/07/guardianobituaries1): "My most beautiful sound at the time was a tatty [green BBC lampshade](https://wikidelia.net/wiki/Green_Lampshade). It was the wrong colour, but it had a beautiful ringing sound to it. I hit the lampshade, recorded that, faded it up into the ringing part without the percussive start. [For ["Blue Veils and Golden Sands"](https://wikidelia.net/wiki/Blue_Veils_and_Golden_Sands)] I analysed the sound into all of its partials and frequencies, and took the 12 strongest, and reconstructed the sound on the workshop's famous 12 oscillators to give a whooshing sound. So the camels rode off into the sunset with my voice in their hooves and a green lampshade on their backs."
 
-**The Wobbulator**: lorem ipsum
+**The Wobbulator**: more soon . . . 
 
 > [Derbyshire](https://wikidelia.net/wiki/Surface_interview): "It was just twangy things with electronic pick-ups, and I just used a single note and then did little glissandos on it and pitched it and treated it. But the 'Ooh-ooh-ooh' isn't me... that's wobbulator, pure wobbulator. That's a piece of test equipment that does wave sweeps." 
 
@@ -85,26 +83,22 @@ radiophonic workshop as lab, studio, theatre; associations with "mad scientist" 
 
 ### Reduced Listening 
 
-lorem ipsum 
+ more soon . . . 
 
-**Abstract Sound**: lorem ipsum
+**Abstract Sound**:  more soon . . . 
 
-basic sine tones; sounds as if it's acoustic; the siren during the blitz; sources often not seen  
-
-**Swoops and Clouds**: lorem ipsum
-
-drawn initially from the *Doctor Who* score, a language for describing radiophonic sounds 
+**Swoops and Clouds**: more soon . . . 
 
 ### Cultures of Listening 
 
-lorem ipsum 
+more soon . . . 
 
-**Gender, Labour, and STEM**: lorem ipsum 
+**Gender, Labour, and STEM**: more soon . . . 
 
-**Sound "Assistants"**: lorem ipsum 
+**Sound "Assistants"**: more soon . . . 
 
-**Colonizing Ears**: lorem ipsum 
+**Colonizing Ears**: more soon . . . 
 
-**Preservation and Ephemera**: lorem ipsum 
+**Preservation and Ephemera**: more soon . . . 
 
 > [Tara Rodgers](https://online.ucpress.edu/fmh/article/1/4/5/106392/Tinkering-with-Cultural-MemoryGender-and-the): "A well-known challenge for historians of marginalized subjects is that cultural materials tend not to survive or be preserved in institutional archives. In the case of electronic music, histories have become slightly more inclusive of women composers in recent years, in part because of the new availability of archival materials from artists such as Daphne Oram and Delia Derbyshire.22 Unfortunately, the release of archival materials to the public often comes only after an artist's death, and their work is recognized mainly posthumously. Moreover, women who have archives of their own have typically occupied positions of racial and economic privilege, holding university positions or institutional affiliations (such as at the BBC) at times when few women had those opportunities. So, even as historical accounts begin to include some women, this expansion happens in small steps and in uneven ways across race, class, and culture."
