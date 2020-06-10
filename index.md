@@ -22,13 +22,11 @@ Below I focus on the entanglements of Derbyshire's sounds with science fiction, 
 Your browser does not support the audio element.
 </audio>
 
-"Science and Health," from 1964, recorded on a 5" reel, 1/4" tape. 01:05 minutes 
+"Science and Health," from 1964, recorded on a 5" reel, 1/4" tape. 01:05 minutes. Audio and provenance care of [Martin Guy](https://wikidelia.net/wiki/Science_and_Health).
 
-Audio and provenance care of [Martin Guy](https://wikidelia.net/wiki/Science_and_Health): 
+> Guy: "In 1964, Delia [Derbyshire] created a 57-second signature tune for a BBC radio series[,] 'For Schools - Health and Science', which she named ['Science and Health'](https://wikidelia.net/wiki/TRW#6152), 'a succession of tumbling chords, descending with an elegance beyond almost anyone else' (see Robin Carmody's ["Wee Have Also Sound-Houses"](https://wikidelia.net/wiki/Wee_have_also_sound-houses_(article))). "The programme was actually called 'For Schools - Health and Science', not 'Science and Health'. The [*Radio Times* listing](https://genome.ch.bbc.co.uk/0b6cbbb9c6bb422ab0bf8ce745a85dcc) initially only credits the programme as 'compiled by Michael Smee.' Later in the series, the *Radio Times* provided [a fuller credit](https://genome.ch.bbc.co.uk/61bf87094117409587e663c4528b4388)[:] 'Reproduction 4: Bringing up children by Michael Smee[.] Series produced and edited by Elizabeth Kilham Roberts.'"
 
-> "In 1964, Delia [Derbyshire] created a 57-second signature tune for a BBC radio series[,] 'For Schools - Health and Science', which she named ['Science and Health'](https://wikidelia.net/wiki/TRW#6152), 'a succession of tumbling chords, descending with an elegance beyond almost anyone else' (see Robin Carmody's ["Wee Have Also Sound-Houses"](https://wikidelia.net/wiki/Wee_have_also_sound-houses_(article))). "The programme was actually called 'For Schools - Health and Science', not 'Science and Health'. The [*Radio Times* listing](https://genome.ch.bbc.co.uk/0b6cbbb9c6bb422ab0bf8ce745a85dcc) initially only credits the programme as 'compiled by Michael Smee.' Later in the series, the *Radio Times* provided [a fuller credit](https://genome.ch.bbc.co.uk/61bf87094117409587e663c4528b4388)[:] 'Reproduction 4: Bringing up children by Michael Smee Series produced and edited by Elizabeth Kilham Roberts.'"
-
-The piece was never broadcasted. Either Smee or Kilham Roberts ultimately rejected the tune for use in their sex education programme, reportedly deeming it too "lascivious." Derbyshire decided to resplice parts of the piece for "Ziwzih Ziwzih OO-OO-OO."
+The tune was never broadcasted. Either Smee or Kilham Roberts ultimately rejected it for use in their sex education programme, reportedly deeming it too "lascivious." Derbyshire decided to resplice parts of it for "Ziwzih Ziwzih OO-OO-OO."
 
 ## "Ziwzih Ziwzih OO-OO-OO"
 
@@ -37,11 +35,9 @@ The piece was never broadcasted. Either Smee or Kilham Roberts ultimately reject
 Your browser does not support the audio element.
 </audio>
 
-"Ziwzih Ziwzih OO-OO-OO," broadcast at 10:05pm on 1st January 1967 on BBC2. Recorded on a 7" reel, 1/4" tape, at 7.5ips. 10:53 minutes.
+"Ziwzih Ziwzih OO-OO-OO," broadcast at 10:05pm on 1st January 1967 on BBC2. Recorded on a 7" reel, 1/4" tape, at 7.5ips. 10:53 minutes. Audio and provenance again care of [Martin Guy](https://wikidelia.net/wiki/Ziwzih%20Ziwzih%20OO-OO-OO).t 
 
-Audio and provenance again care of [Martin Guy](https://wikidelia.net/wiki/Ziwzih%20Ziwzih%20OO-OO-OO): 
-
-This particular piece not only respliced "Science and Health" but also served as the theme for an episode in the BBC television series, *Out of the Unknown*. The episode was titled, ["The Prophet,"](https://genome.ch.bbc.co.uk/845a0724283b4cc2ae96313b7a329d39) and adapted Isaac Asimov's short story, "Reason," about QT-1 ("Cutie"), a robot prophet who rejects human commands to lead an automata rebellion in the name of their ship's energy converter (their "Master").
+This particular piece not only respliced "Science and Health" but also served as the theme for an episode in the BBC television series, *Out of the Unknown*. The episode was titled, ["The Prophet,"](https://genome.ch.bbc.co.uk/845a0724283b4cc2ae96313b7a329d39) and adapted Isaac Asimov's short story, "Reason," about QT-1 ("Cutie"), a robot prophet who rejects human commands to lead an automata rebellion in the name of their ship's energy converter (their "Master"). I don't believe an extant copy of "The Prophet" exists; however, there are some [telesnaps](https://wikidelia.net/wiki/Ziwzih%20Ziwzih%20OO-OO-OO#Telesnaps). 
 
 Here's Derbyshire talking about her work for *Out of the Unknown* in a 1997 [Radio Scotland interview](https://wikidelia.net/wiki/Radio_Scotland_interview): 
 
