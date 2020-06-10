@@ -45,7 +45,7 @@ Here's Derbyshire talking about her work for *Out of the Unknown* in a 1997 [Rad
 
 ## Ways of Listening 
 
-We could borrow three terms from Michel Chion's [*Audio-Vision: Sound on Screen*](https://cup.columbia.edu/book/audio-vision/9780231078993) (Columbia U P, 1994) to listen to and interpret these two pieces by Derbyshire. They are semantic, causal, and reduced listening. (See Chapter 2, "The Three Listening Modes.") To them I've added a fourth term, the cultures of listening, to underscore the importance of sound studies and cultural crticism in the interpretive process. Alongside each listening mode, I've included some preliminary themes we could discuss. I should also note that this research is still rough, and I've not had the opportunity to study Derbyshire's archive at the University of Manchester. 
+We could borrow three terms from Michel Chion's [*Audio-Vision: Sound on Screen*](https://cup.columbia.edu/book/audio-vision/9780231078993) (Columbia U P, 1994) to listen to and interpret these two pieces by Derbyshire. They are semantic, causal, and reduced listening. (See Chapter 2, "The Three Listening Modes.") To them I've added a fourth term, the cultures of listening, to underscore the importance of sound studies and cultural crticism in the interpretive process. Alongside each listening mode, I've included some preliminary themes we could discuss. The themes admittedly stretch Chion's intentions. I should also note that this research is still rough, and I've not had the opportunity to study Derbyshire's archive at the University of Manchester. 
 
 ### Semantic Listening 
 
@@ -59,13 +59,13 @@ Semantic listening attends to codes or languages to interpret a message (Chion 2
 
 > [Derbyshire](https://wikidelia.net/wiki/Radio_Scotland_interview): "I did the music for the whole programme. It was probably in the mid '60s. [...] I never watched the stuff. I had a script, that's all. The actors, I got them to chant. The words they were singing were, 'Praise to the master, his wisdom and his [reason]" [...] I turned it backwards first, then chose the best bits that sounded good backwards and would fit into a rhythm, and then speed-changed the voices. Then I used just this one bar repeated which had [previously] been rejected from a science and health program for being too lascivious for the schoolchildren. It was like a science program... it was supposed to be about sex, but under another name. And then the producer had the nerve to turn down my music, saying it was too lascivious."
 
-**Signature Tune**: As a signature tune for "The Prophet," "Ziwzih Ziwzih OO-OO-OO" was probably meant to be memorable and even to stand on its own (without depending on images on the television screen). Repetition and stability, if not simplicity, were key. Maybe the goal was not "deep," but rather "indelible"? A curious combination of catchy (or popular) and avant-garde? 
+**Signature Tune**: As a signature tune for "The Prophet," "Ziwzih Ziwzih OO-OO-OO" was probably meant to be memorable and even to stand on its own (without depending on images on the television screen). Repetition and stability, if not simplicity, were key. Maybe the goal was not "deep message," but rather "indelible impression"? A curious combination of catchy (or popular) and avant-garde? 
 
 > [Derbyshire](https://wikidelia.net/wiki/Radio_Scotland_interview): "I think it was at the same time as one of the Beatles' songs, 'Please please me', and so that was like, I think, er, Drew said he thought it sounded medieval. Well that was because it was like a new religion and they'd go back to square one and the perfect fifth as the greeks did."  
 
 ### Causal Listening and Context 
 
-sounds could be manipulated once on tape; every note created as a separate piece of tape; the pieces were jointed together to create melodies; separate tapes were then manually synchronized; no master track recorder ("virtual multitrack"); see Mark Ayres 
+Causal listening attends (or attempts to attend) to the source or causes of a sound (Chion 25). Derbyshire's technique and style of musique concrète are interesting here because the compositions are premised on manipulating sounds once they're on tape. (You do not need musical instruments. You can rely on "found sound.") A note created a separate piece of tape, and the pieces were joined together to create melodies or themes. Separate tapes were then manually snycrhonized across multiple tape machines, without a master track recorder. (This process has been called "virtual multitrack." See Mark Ayres's work for more.) 
 
 radiophonic workshop as lab, studio, theatre; associations with "mad scientist" (very STEM oriented) 
 
