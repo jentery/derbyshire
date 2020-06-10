@@ -63,7 +63,7 @@ Semantic listening attends to codes or languages to interpret a message (Chion 2
 
 > [Derbyshire](https://wikidelia.net/wiki/Radio_Scotland_interview): "I think it was at the same time as one of the Beatles' songs, 'Please please me', and so that was like, I think, er, Drew said he thought it sounded medieval. Well that was because it was like a new religion and they'd go back to square one and the perfect fifth as the greeks did."  
 
-### Causal Listening and Context 
+### Causal Listening 
 
 Causal listening attends (or attempts to attend) to the source or causes of a sound (Chion 25). Derbyshire's technique and style of musique concrète are interesting here because the compositions are premised on manipulating sounds once they're on tape. (You do not need musical instruments. You can rely on "found sound.") A note created a separate piece of tape, and the pieces were joined together to create melodies or themes. Separate tapes were then manually snycrhonized across multiple tape machines, without a master track recorder. (This process has been called "virtual multitrack." See Mark Ayres's work for more.) 
 
