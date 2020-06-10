@@ -2,10 +2,10 @@ Jentery Sayers | English | Praxis Studio | UVic | 10 June 2020
 
 I'm interested in the composition of audio for fiction in the 20th and 21st centuries: sound made for radio, novels, games, and narration, for instance. This sort of sound is distinct from the use of audio to document literary performances. It's less about recording or capturing an event and more about composition and editing, including the sound effects and soundscapes of fiction. It also tends to involve acousmatic listening, where the source(s) of a sound cannot be seen or determined.  
 
-For this session, I thought we could listen to key moment in that history of audio and fiction, namely two audio works by Delia Derbyshire (5 May 1937 – 3 July 2001), who was at the BBC's Radiophonic Workshop in [Maida Vale Studios](https://www.google.com/maps/@51.5262781,-0.1909051,3a,75y,222.79h,90.48t/data=!3m6!1e1!3m4!1s-RpzF9BJ2aBun5N8pqA70Q!2e0!7i16384!8i8192) from 1962 until 1973. Derbyshire is best known for [original *Doctor Who* theme](https://www.youtube.com/watch?v=xkIEkLww3lg), for which she went uncredited. Here's her preferred version of theme, from 1963. It's the original. (OGG file care of Martin Guy.) 
+For this session, I thought we could listen to key moment in that history of audio and fiction, namely two audio works by Delia Derbyshire (5 May 1937 – 3 July 2001), who was at the BBC's Radiophonic Workshop in [Maida Vale Studios](https://www.google.com/maps/@51.5262781,-0.1909051,3a,75y,222.79h,90.48t/data=!3m6!1e1!3m4!1s-RpzF9BJ2aBun5N8pqA70Q!2e0!7i16384!8i8192) from 1962 until 1973. Derbyshire is best known for producing the [original *Doctor Who* theme](https://www.youtube.com/watch?v=xkIEkLww3lg), for which she went uncredited. Here's her preferred version of the theme, from 1963. I believe it's the first version. (OGG file care of Martin Guy.) 
 
 <audio controls>
-  <source src="http://wikidelia.net/wiki/File:Doctor_Who.ogg" type="audio/ogg">
+  <source src="https://wikidelia.net/images/d/d4/Doctor_Who.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
@@ -17,7 +17,10 @@ Below I focus on the entanglements of Derbyshire's sounds with science fiction. 
 
 ## "Science and Health"
 
-<iframe src="http://wikidelia.net/wiki/File:Science_and_Health.ogg?embedplayer=yes" width="220" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<audio controls>
+  <source src="https://wikidelia.net/images/f/f6/Science_and_Health.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
 
 "Science and Health," from 1964, recorded on a 5" reel, 1/4" tape, at 01:05 minutes 
 
